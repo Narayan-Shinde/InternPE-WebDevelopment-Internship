@@ -1,2 +1,2 @@
-<h1 align="center">WebDevelopment Internship at InternPe</h1>
+<h1 align="center">Web Development Internship at InternPe</h1>
 
