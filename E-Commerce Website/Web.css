@@ -5,7 +5,6 @@
 }
 body{
     background-color: #eeee;
-
 }
 nav{
     display: flex;
@@ -49,7 +48,6 @@ ul li i:hover{
 }
 .main .mainText{
     margin-top: 144px;
-    
 }
 .mainText h1{
     font-size: 64px;
