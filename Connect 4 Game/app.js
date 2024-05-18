@@ -13,7 +13,6 @@ let initialMatrix = [
   [0, 0, 0, 0, 0, 0, 0],
 ];
 let currentPlayer;
-
 //Random Number Between Range
 const generateRandomNumber = (min, max) =>
   Math.floor(Math.random() * (max - min)) + min;
